@@ -302,7 +302,8 @@ footer h1
     }
     header {
         width: auto;
-        font-size: 2px;
+        font-size: 1px;
+
     }
 }
 /* <--------Tab Screen layout ---------> */
@@ -315,5 +316,6 @@ footer h1
     header {
         width: auto;
         font-size: 10px;
+        display: flex;
     }
 }
